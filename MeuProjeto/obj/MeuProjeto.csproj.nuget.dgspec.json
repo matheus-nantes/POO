@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Ucaribe\\POO\\MeuProjeto\\MeuProjeto.csproj": {}
+    "M:\\Ucaribe\\POO\\POO\\MeuProjeto\\MeuProjeto.csproj": {}
   },
   "projects": {
-    "M:\\Ucaribe\\POO\\MeuProjeto\\MeuProjeto.csproj": {
+    "M:\\Ucaribe\\POO\\POO\\MeuProjeto\\MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Ucaribe\\POO\\MeuProjeto\\MeuProjeto.csproj",
+        "projectUniqueName": "M:\\Ucaribe\\POO\\POO\\MeuProjeto\\MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "M:\\Ucaribe\\POO\\MeuProjeto\\MeuProjeto.csproj",
+        "projectPath": "M:\\Ucaribe\\POO\\POO\\MeuProjeto\\MeuProjeto.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "M:\\Ucaribe\\POO\\MeuProjeto\\obj\\",
+        "outputPath": "M:\\Ucaribe\\POO\\POO\\MeuProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"

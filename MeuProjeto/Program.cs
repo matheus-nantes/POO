@@ -50,8 +50,11 @@ namespace practical
             // Triangulo objeto = new Triangulo();
             // objeto.Inicializar();
             // objeto.Imprimir();
+
+            
             Aula2108 temp = new Aula2108();
             temp.CargarDatos();
+            temp.CargarValores();
         }
     }
 }
