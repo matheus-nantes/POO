@@ -1,5 +1,5 @@
 ﻿using System;
-namespace practical
+namespace Pratica
 {
     class Triangulo
     {
@@ -42,6 +42,7 @@ namespace practical
             Console.Write("El trinagulo con lados L1= "+l1+" y L2= "+l2+" y L3= "+l3+" es: ");
             Console.WriteLine(this.tipo);
 
+         
             // Console.ReadKey();
         }
 
@@ -52,9 +53,15 @@ namespace practical
             // objeto.Imprimir();
 
             
-            Aula2108 temp = new Aula2108();
-            temp.CargarDatos();
-            temp.CargarValores();
+            // Aula2108 temp = new Aula2108();
+            // temp.CargarDatos();
+            // temp.CargarValores();
+
+            Aula2308 temp = new Aula2308();
+            temp.Cargar();
+            Console.WriteLine("\nPromedio: "+temp.CalcularPromedio());
+            temp.MayoresMenores();
+
         }
     }
 }

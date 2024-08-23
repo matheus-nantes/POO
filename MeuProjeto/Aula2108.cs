@@ -1,5 +1,5 @@
 using System;
-namespace practical
+namespace Pratica
 {
     class Aula2108
     {   
