@@ -62,10 +62,15 @@ namespace Pratica
             // Console.WriteLine("\nPromedio: "+temp.CalcularPromedio());
             // temp.MayoresMenores();
 
-            Aula2808 temp = new Aula2808();
-            temp.Cargar();
-            temp.IngressarDatos();
-            temp.Ordenar();
+            // Aula2808 temp = new Aula2808();
+            // temp.Cargar();
+            // temp.IngressarDatos();
+            // temp.Ordenar();
+
+            // Aula3008 temp = new Aula3008();
+            // temp.Empezar();
+
+            Aula0409 temp = new Aula0409();
 
         }
     }
